@@ -1,6 +1,6 @@
 # Chest X-Ray Images (Pneumonia) Dataset  
 
-This repository provides an overview and analysis of the **Chest X-Ray Images (Pneumonia) Dataset**, a publicly available medical imaging dataset used for developing and evaluating machine learning models to detect pneumonia from chest X-rays.  
+This project provides An Algorithm for Pneumonia Detection Based on **Chest X-Ray Images Images**, a publicly available medical imaging dataset used for developing and evaluating machine learning models to detect pneumonia from chest X-rays.  
 
 ---
 
